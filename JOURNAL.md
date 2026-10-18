@@ -17,7 +17,7 @@
 1. [2026-10-14 – I started with the project. I didn't get very far, since there are still a lot of unknowns about the design, but I managed to design the shafts. I made the shafts be 8mm rods with key grooves, so the](#2026-10-14-i-started-with-the-project-i-didnt-get-very-far-s)
 2. [2026-10-14 – I got into the gears. I researched what gear ratios I'll need, and made a plan for where everything will go with spacing, and gear sizes. First I made the gear at the ends of the countershaft, and the](#2026-10-14-i-got-into-the-gears-i-researched-what-gear-ratio)
 3. [2026-10-15 – I finished adding the gears, and modelled the dog clutches. First I did the gears. It was pretty easy, I just had to set up the sizes, and did everything based on my notes I made. Here is how it looke](#2026-10-15-i-finished-adding-the-gears-and-modelled-the-dog-)
-4. [2026-10-17 – 3.5h](#2026-10-17-35h)
+4. [2026-10-17 – I did the shifting mechanism for the project. I built a mechanism for connecting the specific gears to the shaft.](#2026-10-17-i-did-the-shifting-mechanism-for-the-project-i-bu)
 5. [2026-10-17 – I worked on making the design functional IRL. First I needed holders for all the shafts, which was the hardest part, since I had to think about how everything would fit, and be assembleable. First I d](#2026-10-17-i-worked-on-making-the-design-functional-irl-firs)
 6. [2026-10-17 – I worked on making everything printable and adding final touches. I went through all the components one by one, and added some final touches for assembly, and also did some small refinements. I also a](#2026-10-17-i-worked-on-making-everything-printable-and-addin)
 7. [2026-10-17 – I did some last adjustments. The main thing was that I realized I did the screw hole sizes too small, since I made my sister a fidget toy out of some prototype gers, and needed some screws, and realiz](#2026-10-17-i-did-some-last-adjustments-the-main-thing-was-th)
@@ -78,11 +78,10 @@ I extruded everything, and this is how it turned out:
 
 I also ran a test print, but that didn't finish by the time of writing this, but if I don't forget I'll include it in the next one
 
-### 2026-10-17 – 3.5h
+### 2026-10-17 – I did the shifting mechanism for the project. I built a mechanism for connecting the specific gears to the shaft.
 
 **3.5h**
 
-3.5h
 I did the shifting mechanism for the project. I built a mechanism for connecting the specific gears to the shaft.
 
 To be able to make these do the shifting without me manually controlling what to connect where, I built the shifting shaft.
