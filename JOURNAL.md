@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 15h | 8 |
+| Week 2 | Tier 1 | 14.75h | 8 |
 
 ## Contents
 
@@ -148,7 +148,7 @@ Here's the fidget toy that made me realize my mistake:
 
 ### 2026-10-18 – I finished the project and worked on submission. First I exported all of the project files, and rearranged all the parts for printing to make an STL. Here is the plate:
 
-**1.5h**
+**1.25h**
 
 I finished the project and worked on submission. First I exported all of the project files, and rearranged all the parts for printing to make an STL. Here is the plate:
 
