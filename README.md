@@ -11,7 +11,18 @@ My design is a custom open layout 4 gear(+ neutral) gearbox. It doesn't have a g
 To print, you will either have to print all the parts in the Gearbox_PLATE.stl file, and slice them in your preferred software, or with a Bambu Lab printer you can just open the Gearbox_PLATE.3mf file, and have all the slicer settings already set(Note that you might need to make some modifications if you aren't using an A1 min and PETG Basic). The slicer file has been done for the A1 mini, with Bambu PETG Basic, since that is the printer/filament that I use. The settings have been tested with test prints of some parts, so that's why I use these. The main settings are from the Bambu Lab 20mm preset with the 4 mm nozzle, I just worked on the supports, and the infil.
 
 ## Assembly
-To assemble, just put everything together like in the full CAD model, and screw the screws into the empty holes. (Note that this project has not yet been built, and there is a possibility that not everything will fit together perfectly, if that is the case, I'll update this repo)
+1. First you will  need to take the right side, and insert the shafts into teir respective holes
+2. After that, you should slide the gears onto  the bottom shaft(layshaft), from smallest to largest. At this point you don't need to worry about spacing.
+3. After you're done with that, you should screw on the bottom panel to the side, here, the stabilizers will help you make sure that the spacing is right.
+4. Next you can move onto the output shaft. It should be simple, just push it through the hole, it has the gear printed on
+5. After that you should slide the other side on, to all the shafts you have now, and also add the input shaft.
+6. Add the gears onto the input shaft, making sure that the dog clutches orientation is correct, and also between the gears you should add the 2 dog clutch engagment pieces.
+7. Next you should fix the middle stabilizer between the layshaft and the input shaft, and also add the stabilizer on top of the rings. Also add the dog clutch activator arm, and it's satbilizor connecting it to the shifting shaft.
+8. Screw both sides together, with the help of the long spacer rods, and also the stabilizer in the middel and towards the top on the dog clutch activator arms stabilizer.
+9. Lastly you should add the gear selector wheel, and the crank to finish off the project
+
+If at any point you get stuck with the assembly, use the  assembled CAD model for reference.  
+(Note that this project has not yet been built, and there is a possibility that not everything will fit together perfectly, if that is the case, I'll update this repo)
 
 ## Images 
 Full construction:  
@@ -19,3 +30,10 @@ Full construction:
 
 Plate:  
 ![Printable plate](https://github.com/jivespark/Sequential-gearbox/blob/main/Images/Plate.png?raw=true)
+
+## BOM
+| Item                     | Qty | Supplier   | Cost/item | Total Cost | link                                                                    |
+|--------------------------|-----|------------|-----------|------------|-------------------------------------------------------------------------|
+| M3x10 screws             | 1   | Aliexpress | $2.43     | $2.43      | https://www.aliexpress.com/item/4000117933430.html                      |
+| Filament                 | 1   | Bambu lab  | $13.99    | $13.99     | https://us.store.bambulab.com/products/petg-basic |
+| Estimated total shipping | 1   |            |           | $0.00      |                                                                         |
